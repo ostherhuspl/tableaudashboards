@@ -15,7 +15,10 @@ This project analyzes public crime data from Los Angeles using SQL, Tableau Publ
 
 ## 📈 Live Dashboard
 👉 [View on Tableau Public](https://public.tableau.com/app/profile/daniel.hernandes.gomes/viz/Tableau1_17494722311040/Dashboard1?publish=yes)
-    [Dashboard 2](https://public.tableau.com/app/profile/daniel.hernandes.gomes/viz/Tableau2_17494728850470/Dashboard2?publish=yes)
+
+[Dashboard 2](https://public.tableau.com/app/profile/daniel.hernandes.gomes/viz/Tableau2_17494728850470/Dashboard2?publish=yes)
+
+[Dashboard 3](https://public.tableau.com/app/profile/daniel.hernandes.gomes/viz/Tableau3_17494747769490/Dashboard3?publish=yes)
 
 ## 📁 Files Included
 - `crime_data.csv`: original cleaned data
